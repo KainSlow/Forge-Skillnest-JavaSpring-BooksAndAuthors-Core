@@ -21,6 +21,7 @@
             <label for="nombreAutor">Autor</label>
         </div>
 
+        <a class="btn" href="/libros">Volver</a>
         <button class="btn" type="submit">Registrar</button>
     </form>
 
